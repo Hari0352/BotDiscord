@@ -51,5 +51,5 @@ bot.add_cog(music_cog(bot))
 
 #start the bot with our token
 Alive()
-bot.run(os.getenv('token'))
+bot.run(os.getenv('ODc3MDI5MDAxOTM4NDgxMjEy.YRsq6A._6mFtejXpLyQZudSXdUVkBLvE9Q'))
 
