@@ -76,4 +76,4 @@ async def chui(ctx, *, member):
     await ctx.send(f'{random.choice(chuithe)} {member}')
 
 Alive()
-client.run(os.getenv('ODc3MDI5MDAxOTM4NDgxMjEy.YRsq6A._6mFtejXpLyQZudSXdUVkBLvE9Q'))
+client.run(os.getenv('token'))
